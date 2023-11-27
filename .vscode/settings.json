@@ -1,0 +1,10 @@
+{
+    "prettier.tabWidth": 2,
+    "java.compile.nullAnalysis.mode": "automatic",
+    "prettier.endOfLine": "crlf",
+    "cSpell.words": [
+        "kluster",
+        "nativewind",
+        "Pressable"
+    ]
+}
